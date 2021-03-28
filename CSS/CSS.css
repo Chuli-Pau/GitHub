@@ -35,3 +35,13 @@ article{
 	padding: 20px;
 	text-align: justify;
 }
+
+img{
+	display: block;
+	margin: auto;
+}
+
+footer{
+	color: white;
+	text-align: center;
+}
